@@ -169,6 +169,7 @@ header nav a:hover {
   object-fit: cover;
   border-radius: 15px;
   filter: brightness(70%);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   /* box-shadow: 2px 2px 2px black; */
 }
 
